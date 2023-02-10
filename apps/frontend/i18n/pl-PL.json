@@ -1,6 +1,7 @@
 {
 	"beta": {
-		"header": "Ta strona internetowa jest w wersji BETA. Jeżeli potrzebujesz pomocy albo chcesz zgłosić jakiś błąd napisz <discordLink>na serwerze Discord mmattDonk</discordLink>."
+		"header": "Ta strona internetowa jest w wersji BETA. Jeżeli potrzebujesz pomocy albo chcesz zgłosić jakiś błąd napisz <discordLink>na serwerze Discord mmattDonk</discordLink>.",
+		"weekDisclaimer": "There was a bug in the week of 01/30/2023 that caused new users to not work, please try signing out and signing back in to fix this issue."
 	},
 	"close": "Zamknij",
 	"open": "Otwórz",
@@ -57,7 +58,12 @@
 		"dontBelieveDesc": "Wystarczy spojrzeć, co mówią o tym streamerzy.",
 		"testimonyCTA": "Are you a streamer that uses AI TTS Donations? Give us a review <link>here!</link>"
 	},
+	"Footer": {
+		"description": "making free and open source software for all streamers to make Twitch more fun!",
+		"support": "Want to help support the development of Solrock? You can support us on <patreonLink>Patreon</patreonLink> or by a <discordSubLink>Discord Server Subscription</discordSubLink>!"
+	},
 	"Dashboard": {
+		"adDisclaimer": "this is a non-paid advertisement meant to recommend new streamer tools, thanks!",
 		"yourDash": "Twój Panel",
 		"sensitiveInfo": "Wrażliwe Informacje (NIE OTWIERAJ NA TRANSMISJI.)",
 		"sensitiveInfoWarning": "OSTRZEŻENIE: NIE POKAZUJ LINKU DO NAKŁADKI NA TRANSMISJI. ZAWIERO ON SENSYTYWNE INFORMACJE.",
